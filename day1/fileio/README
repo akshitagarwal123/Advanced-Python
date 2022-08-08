@@ -6,3 +6,11 @@ Exercise 2
 3. Write the data into another csv file
 
 Assignment: Repeat the above steps to calculate rank
+
+Exercise 3
+Post Class Day 1
+
+1. Use openpyxl to read the studentsdata.xlsx
+2. Compute average for all students
+3. Compute ranks for all the students
+4. Save the workbook
