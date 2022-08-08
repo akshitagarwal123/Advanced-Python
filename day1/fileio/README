@@ -1,0 +1,8 @@
+Exercise 2
+3:20 PM to 3:40 PM
+
+1. Load students.csv into a dictionary
+2. Compute the average marks for all students
+3. Write the data into another csv file
+
+Assignment: Repeat the above steps to calculate rank
